@@ -1,5 +1,4 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -29,20 +28,19 @@
 <div id="main">
   <div id="wrap">
     <div id="text">
-      <div id="code"> <font color="#FF0000"> <span class="say">亲爱的老婆，邵占丽：我爱你，虽然你看不见我对你的告白</span><br>
+      <div id="code"> <font color="#FF0000"> <span class="say">亲爱的胖纸，ZHX：我爱你，虽然你很可爱</span><br>
         <span class="say"> </span><br>
-        <span class="say"> 我知道我不会甜言蜜语，但是我会用行动证明一切</span><br>
+        <span class="say"> 感谢你能一直陪在我身边</span><br>
         <span class="say"> </span><br>
-        <span class="say">你说我啰嗦，有些东西因为越在乎所以越失去</span><br>
-        <span class="say">因为我太爱你了，所以我不会失去你了</span><br>
-        <span class="say">因为我太啰嗦了，所以你不会离开了我</span><br>
-        <span class="say">虽然你看不见我的告白，但是我还是要把这些心里话说出来</span><br>
+        <span class="say">我们都会好好的，一起努力，迎接未来</span><br>
+        <span class="say">想了好久不知道写啥。</span><br>
+        <span class="say">明天就能见到你我很开心，哈哈哈</span><br>
         <span class="say"> </span><br>
-        <span class="say"><span class="space"></span> -- 爱你的老公：邵海龙--</span> </font>
+        <span class="say"><span class="space"></span> -- 爱你的：DHD--</span> </font>
         </p>
       </div>
     </div>
-    <div id="clock-box"> <span class="STYLE1"></span><font color="#33CC00">亲爱的老婆，我喜欢你</font> <span class="STYLE1">已经是……</span>
+    <div id="clock-box"> <span class="STYLE1"></span><font color="#33CC00">亲爱的，我喜欢你</font> <span class="STYLE1">已经是 150 天了</span>
       <div id="clock"></div>
     </div>
     <canvas id="canvas" width="1100" height="680"></canvas>
