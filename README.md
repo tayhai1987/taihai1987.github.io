@@ -33,9 +33,6 @@
         </p>
       </div>
     </div>
-    <div id="clock-box"> <span class="STYLE1"></span><font color="#33CC00">亲爱的，我喜欢你</font> <span class="STYLE1">已经是 150 天了</span>
-      <div id="clock"></div>
-    </div>
     <canvas id="canvas" width="1100" height="680"></canvas>
   </div>
 </div>
