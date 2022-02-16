@@ -28,14 +28,7 @@
 <div id="main">
   <div id="wrap">
     <div id="text">
-      <div id="code"> <font color="#FF0000"> <span class="say">亲爱的胖纸，ZHX：我爱你，虽然你很可爱</span><br>
-        <span class="say"> </span><br>
-        <span class="say"> 感谢你能一直陪在我身边</span><br>
-        <span class="say"> </span><br>
-        <span class="say">我们都会好好的，一起努力，迎接未来</span><br>
-        <span class="say">想了好久不知道写啥。</span><br>
-        <span class="say">明天就能见到你我很开心，哈哈哈</span><br>
-        <span class="say"> </span><br>
+      <div id="code"> <font color="#FF0000"> <span class="say">亲爱的</span><br>
         <span class="say"><span class="space"></span> -- 爱你的：DHD--</span> </font>
         </p>
       </div>
