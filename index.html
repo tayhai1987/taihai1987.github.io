@@ -24,8 +24,6 @@ with(m=Math)C=cos,S=sin,P=pow,R=random;c.width=c.height=f=500;h=-250;function p(
 </body> 
 <template>
   <div id="app">
-    <img src="./assets/1.png">
-    <router-view/>
   </div>
 </template>
 
@@ -33,5 +31,15 @@ with(m=Math)C=cos,S=sin,P=pow,R=random;c.width=c.height=f=500;h=-250;function p(
 export default {
   name: 'App'
 }
-</script>      
+</script>     
+<script>
+export default {
+    name: "First",
+    data() {
+        return {
+            msg: '欢迎来到 dhd and lcc 的私人空间!'
+        }
+    }
+};
+  </script>
 </html>  
